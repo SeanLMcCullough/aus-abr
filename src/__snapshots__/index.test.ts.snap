@@ -2226,26 +2226,38 @@ Object {
     Object {
       "businessName": "COLES LOCAL",
       "from": "15 Dec 2017",
+      "searchId": "623445358",
+      "searchIdType": "BUSN",
     },
     Object {
       "businessName": "MIX APPAREL",
       "from": "27 Apr 2012",
+      "searchId": "158028089",
+      "searchIdType": "BUSN",
     },
     Object {
       "businessName": "COLES CENTRAL",
       "from": "16 Feb 2004",
+      "searchId": "107957979",
+      "searchIdType": "BUSN",
     },
     Object {
       "businessName": "COLES ONLINE",
       "from": "14 Feb 2000",
+      "searchId": "84051730",
+      "searchIdType": "BUSN",
     },
     Object {
       "businessName": "COLES SUPERMARKETS",
       "from": "14 Feb 2000",
+      "searchId": "34979194",
+      "searchIdType": "BUSN",
     },
     Object {
       "businessName": "PICK 'N' PAY",
       "from": "14 Feb 2000",
+      "searchId": "24277898",
+      "searchIdType": "BUSN",
     },
   ],
   "details": Object {
@@ -2289,6 +2301,8 @@ Object {
     Object {
       "businessName": "TUBEPAK",
       "from": "13 Oct 2011",
+      "searchId": "153719370",
+      "searchIdType": "BUSN",
     },
   ],
   "details": Object {
@@ -2319,14 +2333,20 @@ Object {
     Object {
       "businessName": "Barossa Australia",
       "from": "29 Oct 2019",
+      "searchId": "637126400",
+      "searchIdType": "BUSN",
     },
     Object {
       "businessName": "Barossa Wine School",
       "from": "20 Oct 2018",
+      "searchId": "629483530",
+      "searchIdType": "BUSN",
     },
     Object {
       "businessName": "BGWA",
       "from": "08 Aug 2018",
+      "searchId": "628012135",
+      "searchIdType": "BUSN",
     },
   ],
   "details": Object {
@@ -2396,74 +2416,110 @@ Object {
     Object {
       "businessName": "COMMONWEALTH FINANCIAL SERVICES",
       "from": "30 Oct 2019",
+      "searchId": "637153434",
+      "searchIdType": "BUSN",
     },
     Object {
       "businessName": "BANKWEST",
       "from": "22 Mar 2013",
+      "searchId": "162984643",
+      "searchIdType": "BUSN",
     },
     Object {
       "businessName": "COMMONWEALTH AWARDS",
       "from": "16 May 2012",
+      "searchId": "158386102",
+      "searchIdType": "BUSN",
     },
     Object {
       "businessName": "COMMONWEALTH BANK GROUP",
       "from": "17 Nov 2010",
+      "searchId": "147407387",
+      "searchIdType": "BUSN",
     },
     Object {
       "businessName": "COMMONWEALTH FINANCIAL SERVICES",
       "from": "03 Jun 2010",
+      "searchId": "144015529",
+      "searchIdType": "BUSN",
     },
     Object {
       "businessName": "COMMONWEALTH PRIVATE BANK",
       "from": "17 May 2010",
+      "searchId": "143114738",
+      "searchIdType": "BUSN",
     },
     Object {
       "businessName": "CBA WOMEN IN FOCUS",
       "from": "29 Mar 2010",
+      "searchId": "142515482",
+      "searchIdType": "BUSN",
     },
     Object {
       "businessName": "WOMEN IN FOCUS",
       "from": "01 Oct 2009",
+      "searchId": "139545234",
+      "searchIdType": "BUSN",
     },
     Object {
       "businessName": "WOMEN IN FOCUS",
       "from": "26 Aug 2009",
+      "searchId": "139630943",
+      "searchIdType": "BUSN",
     },
     Object {
       "businessName": "COMMONWEALTH PRIVATE BANK",
       "from": "01 Oct 2004",
+      "searchId": "111607026",
+      "searchIdType": "BUSN",
     },
     Object {
       "businessName": "COMMONWEALTH BANK",
       "from": "15 Nov 2000",
+      "searchId": "95084389",
+      "searchIdType": "BUSN",
     },
     Object {
       "businessName": "COMMBANK",
       "from": "04 Oct 2000",
+      "searchId": "94654350",
+      "searchIdType": "BUSN",
     },
     Object {
       "businessName": "COMMONWEALTH BANK",
       "from": "03 Oct 2000",
+      "searchId": "94621388",
+      "searchIdType": "BUSN",
     },
     Object {
       "businessName": "MY COMMBANK",
       "from": "20 Jun 2000",
+      "searchId": "93388320",
+      "searchIdType": "BUSN",
     },
     Object {
       "businessName": "WHICH BANK",
       "from": "13 Jan 2000",
+      "searchId": "91177294",
+      "searchIdType": "BUSN",
     },
     Object {
       "businessName": "DOLLARMITE",
       "from": "04 Jan 2000",
+      "searchId": "91072276",
+      "searchIdType": "BUSN",
     },
     Object {
       "businessName": "AUSTRALASIAN ASSET RESIDUAL MANAGEMENT",
       "from": "01 Nov 1999",
+      "searchId": "70915169",
+      "searchIdType": "BUSN",
     },
     Object {
       "businessName": "COLONIAL STATE BANK",
       "from": "01 Nov 1999",
+      "searchId": "137684836",
+      "searchIdType": "BUSN",
     },
   ],
   "details": Object {

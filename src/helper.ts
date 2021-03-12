@@ -88,6 +88,15 @@ export function readTableWithHeader<T>(
       .toArray()
       .forEach((td, index) => {
         item[headers[index].key] = headers[index].value($(td).text().trim());
+        $("a", td)  
+          .toArray()
+          .forEach(a => {
+            const href = $(a).attr('href')
+            try {
+              const url = new URL(href)
+              Object.assign(item, Object.fromEntries(url.searchParams.entries()))
+            } catch (e) {}
+          })
       });
     return item as T;
   });

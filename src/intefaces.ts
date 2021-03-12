@@ -12,6 +12,8 @@ export interface ISearchItem {
 export interface IBusinessName {
   businessName: string;
   from: string;
+  searchId: String;
+  searchIdType: String;
 }
 export interface IStatus {
   from: string;
